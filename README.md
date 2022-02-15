@@ -1,2 +1,2 @@
-# top-landing-page-challenge
+# The Odin Project: Landing Page Project
 The Odin Project: Landing Page Foundations Project
