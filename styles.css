@@ -1,4 +1,7 @@
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
 .navbar {
     background-color: #1F2937;
     color: white;
@@ -64,7 +67,7 @@
     color: #E5E7EB;
 }
 
-.hero-btn {
+.hero-btn, .c2a-btn {
     border: none;
     color: white;
     background-color: #3882F6;
@@ -140,6 +143,40 @@
     width: 50%;
     text-align: right;
     margin-top: -20px;
+}
+
+.section4 {
+    display: flex;
+    justify-content: center;
+}
+
+.call2action {
+    display: flex;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    margin: 75px 0;
+    padding: 10px 0;
+    border-radius: 7px;
+}
+
+.call2action p {
+    color: #E5E7EB;
+}
+
+.c2a-content {
+    margin-right: 125px;
+}
+
+.c2a-content p {
+    margin-top: -15px;
+}
+
+.c2a-btn {
+    border-width: 2px;
+    border-style: solid;
 }
 
 
